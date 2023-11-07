@@ -45,6 +45,9 @@
       {
         "labelAttributes": ["htmlFor"] // 라벨 설정
       }
-    ]
+    ],
+    "import/prefer-default-export": "off",
+    "import/extensions": ["off"],
+    "no-param-reassign": "off"
   }
 }
